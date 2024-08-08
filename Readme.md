@@ -1,1 +1,1 @@
-#Stone Paper Scissors Game Developed in JS
+# Stone Paper Scissors Game Developed in JS
